@@ -1,2 +1,2 @@
 # SearchArrayIndex
-SearchArrayIndex sample By Two-dimensional Array
+Search to object for Two-dimensional array sample.
